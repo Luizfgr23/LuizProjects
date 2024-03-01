@@ -7,7 +7,7 @@ class DatabaseConnector: # Criação da classe e função para inicializar a con
             'dbname': dbname, # nome do banco
             'user': user, # usuário
             'password': password, # senha do usuário
-            'host': host, # 172.22.1.45
+            'host': host, # host
             'port': port # 5432
         }
 
